@@ -1,0 +1,330 @@
+Celesteela Башня from the team Yellow enters the battle!
+Jolteon Желтый from the team Black enters the battle!
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Celesteela Башня loses 6 hit points.
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 3 hit points.
+
+Celesteela Башня uses Eerie Impulse. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый uses Shadow Ball. 
+Celesteela Башня restores 1 hit points.
+
+Celesteela Башня uses Eerie Impulse. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Celesteela Башня loses 6 hit points.
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 2 hit points.
+
+Celesteela Башня uses Thunder. 
+Jolteon Желтый loses 3 hit points.
+
+Jolteon Желтый uses Confide. 
+Celesteela Башня decreases special attack.
+
+Celesteela Башня uses Thunder. 
+Jolteon Желтый loses 4 hit points.
+
+Jolteon Желтый uses Confide. 
+Celesteela Башня decreases special attack.
+
+Celesteela Башня uses Thunder Punch. 
+Critical hit!
+Jolteon Желтый loses 5 hit points.
+
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 2 hit points.
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Celesteela Башня loses 4 hit points.
+
+Celesteela Башня uses Zap Cannon. 
+Jolteon Желтый restores 1 hit points.
+
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 3 hit points.
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 2 hit points.
+
+Celesteela Башня uses Zap Cannon. 
+Jolteon Желтый restores 1 hit points.
+
+Jolteon Желтый uses Confide. 
+Celesteela Башня decreases special attack.
+
+Celesteela Башня uses Zap Cannon. 
+
+Jolteon Желтый uses Shadow Ball. 
+Celesteela Башня restores 34 hit points.
+
+Celesteela Башня uses Thunder Punch. 
+Jolteon Желтый loses 3 hit points.
+
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Celesteela Башня loses 5 hit points.
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 3 hit points.
+
+Celesteela Башня uses Eerie Impulse. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Celesteela Башня loses 7 hit points.
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 3 hit points.
+
+Celesteela Башня uses Thunder. 
+
+Jolteon Желтый uses Shadow Ball. 
+Celesteela Башня restores 12 hit points.
+
+Celesteela Башня uses Zap Cannon. 
+
+Jolteon Желтый uses Confide. 
+Celesteela Башня decreases special attack.
+
+Celesteela Башня uses Eerie Impulse. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый uses Shadow Ball. 
+Celesteela Башня restores 14 hit points.
+
+Celesteela Башня uses Eerie Impulse. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый uses Confide. 
+Celesteela Башня decreases special attack.
+
+Celesteela Башня uses Eerie Impulse. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый использует быструю атаку. 
+Critical hit!
+Celesteela Башня loses 16 hit points.
+
+Celesteela Башня uses Thunder. 
+Jolteon Желтый loses 1 hit points.
+
+Jolteon Желтый uses Shadow Ball. 
+Celesteela Башня restores 14 hit points.
+
+Celesteela Башня uses Thunder. 
+Jolteon Желтый loses 1 hit points.
+
+Jolteon Желтый uses Shadow Ball. 
+Celesteela Башня restores 13 hit points.
+
+Celesteela Башня uses Eerie Impulse. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый использует быструю атаку. 
+Celesteela Башня loses 9 hit points.
+
+Celesteela Башня uses Thunder. 
+Jolteon Желтый loses 1 hit points.
+
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 4 hit points.
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 3 hit points.
+
+Celesteela Башня uses Zap Cannon. 
+Jolteon Желтый loses 1 hit points.
+
+Jolteon Желтый uses Shadow Ball. 
+Critical hit!
+Celesteela Башня restores 22 hit points.
+
+Celesteela Башня uses Thunder. 
+Jolteon Желтый loses 1 hit points.
+
+Jolteon Желтый uses Confide. 
+Celesteela Башня decreases special attack.
+
+Celesteela Башня uses Eerie Impulse. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 3 hit points.
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Celesteela Башня loses 4 hit points.
+
+Celesteela Башня uses Zap Cannon. 
+Jolteon Желтый loses 1 hit points.
+
+Jolteon Желтый uses Confide. 
+Celesteela Башня decreases special attack.
+
+Celesteela Башня uses Zap Cannon. 
+Jolteon Желтый loses 1 hit points.
+
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 2 hit points.
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 3 hit points.
+
+Celesteela Башня uses Thunder Punch. 
+Jolteon Желтый loses 3 hit points.
+
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 2 hit points.
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Celesteela Башня loses 7 hit points.
+
+Celesteela Башня uses Thunder. 
+Jolteon Желтый loses 1 hit points.
+
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 2 hit points.
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Celesteela Башня loses 4 hit points.
+
+Celesteela Башня uses Eerie Impulse. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый использует быструю атаку. 
+Celesteela Башня loses 8 hit points.
+
+Celesteela Башня uses Eerie Impulse. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Celesteela Башня loses 7 hit points.
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 4 hit points.
+
+Celesteela Башня uses Thunder. 
+Jolteon Желтый loses 1 hit points.
+
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 3 hit points.
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 3 hit points.
+
+Celesteela Башня uses Eerie Impulse. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 2 hit points.
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Celesteela Башня loses 6 hit points.
+
+Celesteela Башня uses Thunder Punch. 
+Jolteon Желтый loses 2 hit points.
+
+Jolteon Желтый uses Confide. 
+Celesteela Башня decreases special attack.
+
+Celesteela Башня uses Zap Cannon. 
+Jolteon Желтый loses 2 hit points.
+
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Celesteela Башня loses 7 hit points.
+Jolteon Желтый uses Pin Missile. 
+Celesteela Башня loses 2 hit points.
+
+Celesteela Башня uses Thunder Punch. 
+Jolteon Желтый loses 3 hit points.
+
+Jolteon Желтый использует быструю атаку. 
+Celesteela Башня loses 8 hit points.
+Celesteela Башня faints.
+Eevee Коричневый from the team Yellow enters the battle!
+Jolteon Желтый uses Shadow Ball. 
+Eevee Коричневый loses 1 hit points.
+Eevee Коричневый isn't affected by GHOST
+
+Eevee Коричневый uses Confide. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый использует быструю атаку. 
+Eevee Коричневый loses 10 hit points.
+
+Eevee Коричневый uses Shadow Ball. 
+Jolteon Желтый loses 9 hit points.
+
+Jolteon Желтый uses Shadow Ball. 
+Critical hit!
+Eevee Коричневый loses 1 hit points.
+Eevee Коричневый isn't affected by GHOST
+
+Eevee Коричневый uses Shadow Ball. 
+Jolteon Желтый loses 9 hit points.
+Jolteon Желтый decreases special defense.
+
+Eevee Коричневый использует быструю атаку. 
+Jolteon Желтый loses 14 hit points.
+
+Jolteon Желтый uses Confide. 
+Eevee Коричневый decreases special attack.
+
+Jolteon Желтый uses Shadow Ball. 
+Eevee Коричневый loses 1 hit points.
+Eevee Коричневый isn't affected by GHOST
+
+Eevee Коричневый uses Confide. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый использует быструю атаку. 
+Eevee Коричневый loses 14 hit points.
+
+Eevee Коричневый uses Shadow Ball. 
+Jolteon Желтый loses 6 hit points.
+
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Eevee Коричневый loses 22 hit points.
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Eevee Коричневый loses 12 hit points.
+
+Eevee Коричневый uses Shadow Ball. 
+Critical hit!
+Jolteon Желтый loses 20 hit points.
+
+Jolteon Желтый использует быструю атаку. 
+Eevee Коричневый loses 11 hit points.
+
+Eevee Коричневый uses Confide. 
+Jolteon Желтый decreases special attack.
+
+Jolteon Желтый uses Pin Missile. 
+Eevee Коричневый loses 6 hit points.
+Jolteon Желтый uses Pin Missile. 
+Critical hit!
+Eevee Коричневый loses 15 hit points.
+Eevee Коричневый faints.
+Bellsprout Маленький лимон from the team Yellow enters the battle!
+Jolteon Желтый использует быструю атаку. 
+Bellsprout Маленький лимон loses 10 hit points.
+
+Bellsprout Маленький лимон uses Sweet Scent. 
+Jolteon Желтый decreases evasion.
+
+Jolteon Желтый использует быструю атаку. 
+Bellsprout Маленький лимон loses 11 hit points.
+
+Bellsprout Маленький лимон uses Poison Jab. 
+Jolteon Желтый loses 52 hit points.
+Jolteon Желтый is poisoned
+Jolteon Желтый faints.
+Weepinbell Лимон from the team Black enters the battle!
+Weepinbell Лимон uses Slam. 
+Critical hit!
+Bellsprout Маленький лимон loses 114 hit points.
+Bellsprout Маленький лимон faints.
+Team Yellow loses its last Pokemon.
+The team Black wins the battle!

@@ -1,0 +1,2 @@
+javac -cp libs/*.jar -d bin ./src/main.java ./src/my/pokemon/*.java ./src/my/move/*.java
+java -cp bin:libs/Pokemon.jar main
